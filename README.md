@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ansnow9487&theme=vue-dark)
 -Hi!我是snow一位正在學習程式的專三學生.
 - 🔭 我正在研究 :C++
 - 🌱 我在哪裡讀書:NUTC台中科技大學
@@ -14,4 +14,8 @@
 </br>
 
 ![](https://img.shields.io/badge/%E6%93%85%E9%95%B7%E8%AA%9E%E8%A8%80-C-yellowgreen)
+</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansnow9487)
+
+
 
