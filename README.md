@@ -9,6 +9,9 @@
 - 💬 可以詢問我關於:中文
 - 📫 怎麼聯絡我:lineID:147258369225(pls tell me you reach me on github)
 - ⚡ Fun fact:I don;t like pink
+- 九九乘法表:https://github.com/ansnow9487/index.html/blob/main/%E4%B9%9D%E4%B9%9D%E4%B9%98%E6%B3%95%E8%A1%A8.html
+- DIV排版:https://github.com/ansnow9487/index.html/blob/main/div%E8%A1%A8%E6%A0%BC.html
+- html表格:https://github.com/ansnow9487/index.html/blob/main/div%E8%A1%A8%E6%A0%BC.html
 </br>
 
 ![](https://img.shields.io/badge/%E7%A8%8B%E5%BC%8F%E5%B7%A5%E5%85%B7-Vscode-yellowgreen)
